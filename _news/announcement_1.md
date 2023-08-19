@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-09-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper on ideological orientation of user-submitted texts was accepted at ICMLA'22. :sparkles: 
+<!-- :smile: -->
