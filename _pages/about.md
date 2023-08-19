@@ -39,4 +39,4 @@ Supported by the esteemed [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/f
 
 Motivated by his vision of safe digital environments and a harmonious technological society, Ravi's future research ambitions lie in the realms of Cross-lingual and Multimodal NLP, aimed at augmenting content moderation strategies.
 
-In his leisure hours, Ravi enjoys the outdoors, playing the piano, reading ([GoodReads](https://www.goodreads.com/user/show/51003861-ravi)), and occasionally sailing to explore uncharted corners of Florida.
+In his leisure hours, Ravi enjoys the outdoors, playing the piano, reading ([GoodReads](https://www.goodreads.com/user/show/51003861-ravi)), and occasionally sailing to explore Florida.
