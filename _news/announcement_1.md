@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2022-09-02
+date: 2022-08-02
 inline: true
 related_posts: false
 ---
 
-Our paper on ideological orientation of user-submitted texts was accepted at ICMLA'22. :sparkles: 
+IEEE TMI Silver Distinguished Reviewer. :sparkles: 
 <!-- :smile: -->
