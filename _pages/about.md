@@ -30,12 +30,13 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-
-Introducing Ravi ([etym.](/name/)), a skilled Computer Engineering Ph.D. candidate with a versatile research background that encompasses a wide array of fields, including Natural Language Processing, Computational Linguistics, Biomedical Informatics, System Design, and Applied Machine Learning.
+Introducing Ravi ([etym.](/name/)), a skilled Computer Engineering Ph.D. candidate with a versatile research background that encompasses a wide array of fields, including Natural Language Processing (NLP), Computational Social Science (CSS), Biomedical Informatics, System Design, and Applied Machine Learning.
 
 What sets Ravi apart is his profound expertise in biomedical informatics, with a strong foundation in biomedical signal and imaging analysis (MIA) and electronic health records (EHR). This unique blend of skills empowers him to explore diverse research interests and applications.
 
-Ravi's doctoral research, supported by the prestigious [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), is dedicated to untangling the intricacies of sociotechnical systems. His work significantly contributes to the advancement of content moderation and the comprehension of online hate speech and radicalization. Guided by [Adan Vela](https://iems.ucf.edu/faculty/adan-e-vela/) and [Rickard Ewetz](http://www.ece.ucf.edu/~ewetz/), Ravi is focused on constructing robust algorithms for continuous threat monitoring, with a specific emphasis on the transition from political discourse to violent extremism.
+Ravi's doctoral research, supported by the prestigious [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), is dedicated to untangling the intricacies of sociotechnical systems. His work significantly contributes to the advancement of content moderation and the comprehension of online hate speech and radicalization. Ravi is focused on developing robust algorithms and systems for continuous threat monitoring, with a specific emphasis on the transition from political discourse to violent extremism.
+
+<!-- Guided by [Adan Vela](https://iems.ucf.edu/faculty/adan-e-vela/) and [Rickard Ewetz](http://www.ece.ucf.edu/~ewetz/), -->
 
 Throughout his professional journey, Ravi has held pivotal roles at industry leaders like [Snap Research](https://research.snap.com/) and [Siemens Healthineers](https://www.siemens-healthineers.com/). This experience has finely honed his expertise in evaluating the impact of social media platforms on public discourse and has highlighted his contributions to the realm of electronic health records (EHR) in enhancing patient-centered healthcare.
 
