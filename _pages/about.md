@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a>
+subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a> ✨ <strong><a href="https://kamalravi.com">I am on the job market</a></strong> ✨
+
+# <strong>[ ✨ I am on the job market ✨ ](https://kamalravi.com)</strong>
 
 profile:
   align: left
@@ -30,6 +32,8 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
+I am currently seeking job opportunities and I am open to both <strong>postdoctoral positions</strong> and <strong>industry research scientist roles</strong>, with the intention to start in the Fall of 2024. 👇
+
 Introducing Ravi ([etym.](/name/)), a skilled Computer Engineering Ph.D. candidate with a versatile research background that encompasses a wide array of fields, including Natural Language Processing (NLP), Computational Social Science (CSS), Biomedical Informatics, System Design, and Applied Machine Learning.
 
 What sets Ravi apart is his profound expertise in biomedical informatics, with a strong foundation in biomedical signal and imaging analysis (MIA) and electronic health records (EHR). This unique blend of skills empowers him to explore diverse research interests and applications.
@@ -43,7 +47,6 @@ Throughout his professional journey, Ravi has held pivotal roles at industry lea
 Ravi's future research interests extend to various areas, including Cross-lingual and Multimodal NLP, with a focus on applications in CSS and biomed, among others.
 
 Outside of his research pursuits, Ravi enjoys outdoor activities, playing the piano, reading (you can explore his reading list on [GoodReads](https://www.goodreads.com/user/show/51003861-ravi)), and the occasional sailing adventure to uncover the natural beauty of Florida.
-
 
 
 <!-- Ravi ([etym.](/name/)), an accomplished Computer Engineering Ph.D. candidate, has a multifaceted research background that spans a range of disciplines, showcasing his versatility and expertise. His areas of specialization include Natural Language Processing, Computational Linguistics, Biomedical Informatics, System Design, and Applied Machine Learning.
