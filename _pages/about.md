@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a> ✨ <strong><a href="https://kamalravi.com">I am on the job market</a></strong> ✨
+subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a> 
+
+# ✨ <strong><a href="vzz">I am on the job market</a></strong> ✨
 
 # <strong>[ ✨ I am on the job market ✨ ](https://www.linkedin.com/in/kamalravi/)</strong>
 
