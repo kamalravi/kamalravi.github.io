@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a> ✨ <strong><a href="https://kamalravi.com">I am on the job market</a></strong> ✨
 
-# <strong>[ ✨ I am on the job market ✨ ](https://kamalravi.com)</strong>
+# <strong>[ ✨ I am on the job market ✨ ](https://www.linkedin.com/in/kamalravi/)</strong>
 
 profile:
   align: left
