@@ -10,8 +10,8 @@ subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a>
 
 profile:
   align: left
-  image: IMG_7681-EDIT-1.jpg #prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: IMG_7681-EDIT-EDIT-2.jpg #prof_pic.jpg
+  image_circular: yes # crops the image to make it circular
   margin: 10px 10px 0px 0px;
   address: >
     <center> 
@@ -28,48 +28,21 @@ profile:
       <i class="fa fa-envelope"></i></a> 
     </center> 
 
-news: true  # includes a list of news items
+experience: true # Overview of professional experience. 
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+awards: true
+reviews: true
+mentor: true
+
 social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I am currently seeking job opportunities and I am open to both <strong>postdoctoral positions</strong> and <strong>industry research scientist roles</strong>, with the intention to start in the Fall of 2024. 👇
+I am a Ph.D. candidate in Computer Engineering advised by Prof. [Jiann S. Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/), with a diverse research background spanning natural language processing, computational social science, biomedical informatics, system design, and applied machine learning.
 
-Introducing Ravi ([etym.](/name/)), a skilled Computer Engineering Ph.D. candidate with a versatile research background that encompasses a wide array of fields, including Natural Language Processing (NLP), Computational Social Science (CSS), Biomedical Informatics, System Design, and Applied Machine Learning.
+My doctoral research, supported by the prestigious [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), aims to unravel the complexities of sociotechnical systems. 
 
-What sets Ravi apart is his profound expertise in biomedical informatics, with a strong foundation in biomedical signal and imaging analysis (MIA) and electronic health records (EHR). This unique blend of skills empowers him to explore diverse research interests and applications.
+Beyond my research, I  enjoy outdoor activities, playing the piano, reading (explore my [GoodReads](https://www.goodreads.com/user/show/51003861-ravi)), and the occasional sailing adventure to uncover the natural beauty of Florida.
 
-Ravi's doctoral research, supported by the prestigious [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), is dedicated to untangling the intricacies of sociotechnical systems. His work significantly contributes to the advancement of content moderation and the comprehension of online hate speech and radicalization. Ravi is focused on developing robust algorithms and systems for continuous threat monitoring, with a specific emphasis on the transition from political discourse to violent extremism.
-
-<!-- Guided by [Adan Vela](https://iems.ucf.edu/faculty/adan-e-vela/) and [Rickard Ewetz](http://www.ece.ucf.edu/~ewetz/), -->
-
-Throughout his professional journey, Ravi has held pivotal roles at industry leaders like [Snap Research](https://research.snap.com/) and [Siemens Healthineers](https://www.siemens-healthineers.com/). This experience has finely honed his expertise in evaluating the impact of social media platforms on public discourse and has highlighted his contributions to the realm of electronic health records (EHR) in enhancing patient-centered healthcare.
-
-Ravi's future research interests extend to various areas, including Cross-lingual and Multimodal NLP, with a focus on applications in CSS and biomed, among others.
-
-Outside of his research pursuits, Ravi enjoys outdoor activities, playing the piano, reading (you can explore his reading list on [GoodReads](https://www.goodreads.com/user/show/51003861-ravi)), and the occasional sailing adventure to uncover the natural beauty of Florida.
-
-
-<!-- Ravi ([etym.](/name/)), an accomplished Computer Engineering Ph.D. candidate, has a multifaceted research background that spans a range of disciplines, showcasing his versatility and expertise. His areas of specialization include Natural Language Processing, Computational Linguistics, Biomedical Informatics, System Design, and Applied Machine Learning.
-
-In addition to his expertise in NLP, Ravi has a strong foundation in biomedical informatics, with experience in biomedical signal and imaging analysis (MIA) and electronic health records (EHR). This unique blend of skills allows him to explore a wide array of research interests and applications.
-
-Ravi's innovative research endeavors focus on decoding the complexities of sociotechnical systems, contributing to enhanced content moderation and a deeper understanding of online hate speech and radicalization. Under the guidance of [Adan Vela](https://iems.ucf.edu/faculty/adan-e-vela/) and [Rickard Ewetz](http://www.ece.ucf.edu/~ewetz/), his doctoral research is dedicated to constructing robust and explainable algorithms for continuous threat monitoring. He specifically examines the transition from political discourse to violent extremism, often influenced by electoral motives.
-
-Supported by the esteemed [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), Ravi's professional trajectory includes significant roles at industry-leading organizations such as [Snap Research](https://research.snap.com/) and [Siemens Healthineers](https://www.siemens-healthineers.com/). This experience has honed his expertise in assessing the substantial impact of social media platforms on public discourse.
-
-Motivated by his vision of creating safe digital environments and fostering a harmonious technological society, Ravi's future research ambitions extend to areas such as Cross-lingual and Multimodal NLP. These endeavors aim to augment content moderation strategies and improve responsible online communication practices. His comprehensive background, spanning NLP, biomedical informatics, and more, positions him as a valuable researcher with a broad scope of application areas, including CSS and biomedical informatics.
-
-In his leisure hours, Ravi enjoys the outdoors, playing the piano, reading ([GoodReads](https://www.goodreads.com/user/show/51003861-ravi)), and occasionally sailing to explore Florida. -->
-
-<!-- 
-Ravi ([etym.](/name/)), a Computer Engineering Ph.D. candidate, is a dedicated researcher specializing in Natural Language Processing, Computational Linguistics, System Design, and Applied Machine Learning. His innovative research works to decode the complexities of sociotechnical systems, paving the way for enhanced content moderation and a deeper understanding of online hate speech and radicalization.
-
-Guided by [Adan Vela](https://iems.ucf.edu/faculty/adan-e-vela/) and [Rickard Ewetz](http://www.ece.ucf.edu/~ewetz/), his doctoral research aims to construct robust and explainable algorithms for continuous threat monitoring, specifically examining the transition from political discourse to violent extremism spurred by electoral motives.
-
-Supported by the esteemed [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), Ravi's professional trajectory includes significant roles at industry-leading organizations such as [Snap Research](https://research.snap.com/) and [Siemens Healthineers](https://www.siemens-healthineers.com/). This experience has honed his expertise in assessing the substantial impact of social media platforms on public discourse.
-
-Motivated by his vision of safe digital environments and a harmonious technological society, Ravi's future research ambitions lie in the realms of Cross-lingual and Multimodal NLP, aimed at augmenting content moderation strategies.
-
-In his leisure hours, Ravi enjoys the outdoors, playing the piano, reading ([GoodReads](https://www.goodreads.com/user/show/51003861-ravi)), and occasionally sailing to explore Florida. -->
+<div style="margin-bottom: 40px;"></div>

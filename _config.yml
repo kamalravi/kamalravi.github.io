@@ -170,6 +170,11 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 collections:
+  experience:
+    output: true
+    defaults:
+      layout: post    
+    permalink: /experience/:path/
   news:
     defaults:
       layout: post
