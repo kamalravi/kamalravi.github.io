@@ -39,10 +39,11 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I am a Ph.D. candidate in Computer Engineering advised by Prof. [Jiann S. Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/), with a diverse research background spanning natural language processing, computational social science, biomedical informatics, system design, and applied machine learning.
 
-My doctoral research, supported by the prestigious [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), aims to unravel the complexities of sociotechnical systems. 
+I  am a Ph.D. candidate in Computer Engineering, advised by Prof. [Jiann S. Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/). My research covers various areas, including natural language processing, computational social science, biomedical informatics, system design, computer vision, and applied machine learning. Supported by the [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), my doctoral research focuses on understanding sociotechnical systems.
 
-Beyond my research, I  enjoy outdoor activities, playing the piano, reading (explore my [GoodReads](https://www.goodreads.com/user/show/51003861-ravi)), and the occasional sailing adventure to uncover the natural beauty of Florida.
+I am passionate about explainable AI and user experience, working on projects that emphasize transparency and build user trust in AI systems.
+
+Outside of my research, I enjoy outdoor activities, playing the piano, and reading. I also love sailing to explore the beautiful landscapes of Florida.
 
 <div style="margin-bottom: 40px;"></div>
