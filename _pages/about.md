@@ -10,9 +10,9 @@ subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a>
 
 profile:
   align: left
-  image: IMG_7681-EDIT-EDIT-2.jpg #prof_pic.jpg
+  image: IMG_0730-Ravi2.jpg #prof_pic.jpg
   image_circular: yes # crops the image to make it circular
-  margin: 10px 10px 0px 0px;
+  margin: 10px 10px 0px 0px; #
   address: >
     <center> 
       <a href="https://scholar.google.com/citations?user=Ieko0fYAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
