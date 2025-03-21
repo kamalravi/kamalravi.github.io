@@ -39,7 +39,7 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I am a Ph.D. candidate in Computer Engineering at the University of Central Florida, advised by Prof. [Jiann-Shiun Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/), set to complete my degree in May 2025. Supported by the [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), my research focuses on understanding sociotechnical systems.
+I am a Ph.D. candidate in Computer Engineering at the University of Central Florida, advised by Prof. [Jiann-Shiun Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/), set to complete my degree in August 2025. Supported by the [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), my research focuses on understanding sociotechnical systems.
 
 With experience across natural language processing, computational social science, biomedical informatics, computer vision, system design, and applied machine learning, I am passionate about building scalable AI systems that emphasize transparency, foster user trust, and contribute positively to society.
 
