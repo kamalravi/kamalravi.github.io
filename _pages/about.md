@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a> (defended Aug 2025)
+subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a>
 # subtitle: "Successfully defended my Ph.D. in Computer Engineering at <a href='https://www.ucf.edu/'>UCF</a> (Aug 2025)"
 
 # ✨ <strong><a href="vzz">I am on the job market</a></strong> ✨
