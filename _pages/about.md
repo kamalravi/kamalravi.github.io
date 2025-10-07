@@ -11,7 +11,7 @@ subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a>
 
 profile:
   align: left
-  image: Screenshot2025.png #IMG_0730-Ravi2.jpg #prof_pic.jpg
+  image: ravinew25.jpeg #IMG_3156edit.JPG #Screenshot2025.png #IMG_0730-Ravi2.jpg #prof_pic.jpg
   image_circular: yes # crops the image to make it circular
   margin: 10px 10px 0px 0px; #
   address: >
@@ -29,7 +29,7 @@ profile:
       <i class="fa fa-envelope"></i></a> 
     </center> 
 
-experience: true # Overview of professional experience. 
+experience: false # Overview of professional experience. 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
@@ -40,7 +40,7 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I recently **defended my Ph.D. dissertation in Computer Engineering at the University of Central Florida (Aug 2025)**, 
+I recently defended my Ph.D. dissertation in Computer Engineering at the University of Central Florida (Aug 2025), 
 where I was advised by Prof. [Jiann-Shiun Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/). Supported by the [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), my research focuses on understanding sociotechnical systems.
 
 I bring interdisciplinary experience across natural language processing, computational social science, biomedical informatics, computer vision, system design, and applied machine learning. I am passionate about building scalable AI systems that emphasize transparency, foster user trust, and contribute positively to society.
