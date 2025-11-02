@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href="https://www.ucf.edu/">UCF</a>
+subtitle: Building Trustworthy and Explainable AI at <a href="https://www.ucf.edu/">UCF</a>
+# subtitle: PhD at <a href="https://www.ucf.edu/">UCF</a>
 # subtitle: "Successfully defended my Ph.D. in Computer Engineering at <a href='https://www.ucf.edu/'>UCF</a> (Aug 2025)"
 
 # ✨ <strong><a href="vzz">I am on the job market</a></strong> ✨
@@ -40,7 +41,7 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I recently defended my Ph.D. dissertation in Computer Engineering at the University of Central Florida (Aug 2025), 
+I recently defended my Ph.D. dissertation in Computer Engineering at the University of Central Florida, 
 where I was advised by Prof. [Jiann-Shiun Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/). Supported by the [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), my research focuses on understanding sociotechnical systems.
 
 I bring interdisciplinary experience across natural language processing, computational social science, biomedical informatics, computer vision, system design, and applied machine learning. I am passionate about building scalable AI systems that emphasize transparency, foster user trust, and contribute positively to society.
