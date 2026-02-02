@@ -19,7 +19,7 @@ subtitle: >
 
 profile:
   align: left
-  image: ravinew25.jpeg #IMG_3156edit.JPG #Screenshot2025.png #IMG_0730-Ravi2.jpg #prof_pic.jpg
+  image: IMG3621edit.JPG # ravinew25.jpeg #IMG_3156edit.JPG #Screenshot2025.png #IMG_0730-Ravi2.jpg #prof_pic.jpg
   image_circular: yes # crops the image to make it circular
   margin: 10px 10px 0px 0px; #
   address: >
