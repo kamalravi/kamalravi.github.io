@@ -2,7 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Building Trustworthy and Explainable AI at <a href="https://www.ucf.edu/">UCF</a>
+subtitle: >
+  Agentic AI at
+  <img id="harvard-logo" style="height:14pt; vertical-align:-2px;" src="/assets/img/harvard-logo.png">
+  <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/227214" target="_blank" rel="noopener">
+  Harvard
+  </a>
+# subtitle: Agentic AI at <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/227214">Harvard Medical School</a>
+# subtitle: Building Trustworthy and Explainable AI at <a href="https://www.ucf.edu/">UCF</a>
 # subtitle: PhD at <a href="https://www.ucf.edu/">UCF</a>
 # subtitle: "Successfully defended my Ph.D. in Computer Engineering at <a href='https://www.ucf.edu/'>UCF</a> (Aug 2025)"
 
@@ -41,10 +48,11 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I recently defended my Ph.D. dissertation in Computer Engineering at the University of Central Florida, 
-where I was advised by Prof. [Jiann-Shiun Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/). Supported by the [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/), my research focuses on understanding sociotechnical systems.
 
-I bring interdisciplinary experience across natural language processing, computational social science, biomedical informatics, computer vision, system design, and applied machine learning. I am passionate about building scalable AI systems that emphasize transparency, foster user trust, and contribute positively to society.
+I am a Research Fellow at [Harvard Medical School](https://hms.harvard.edu/) and [Boston Children’s Hospital](https://www.childrenshospital.org/), where I build trustworthy, explainable, and agentic AI systems for healthcare and other high-stakes decision-making environments.
 
-Beyond? Outdoors, piano, books, and scenic Ole Florida!!
+I earned my Ph.D. in Computer Engineering from the [University of Central Florida](https://www.ucf.edu/) under the mentorship of Prof. [Jiann-Shiun Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/). My doctoral work was supported by the [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/) and the U.S. Department of Homeland Security. My research spans natural language processing, computational social science, biomedical informatics, computer vision, and scalable machine learning systems, with a focus on transparency, robustness, and human trust.
+
+Beyond research, I enjoy winter hiking and skiing across New England, playing piano, cooking, reading, and capturing my travels through photography.
+
 <div style="margin-bottom: 40px;"></div>
