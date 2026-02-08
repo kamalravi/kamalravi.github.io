@@ -2,12 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  Agentic AI at
-  <img id="harvard-logo" style="height:14pt; vertical-align:-2px;" src="/assets/img/harvard-logo.png">
-  <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/227214" target="_blank" rel="noopener">
-  Harvard
-  </a>
+subtitle: Agentic AI & LLM Systems for High-Stakes Workflows
+# subtitle: >
+#   Agentic AI at
+#   <img id="harvard-logo" style="height:14pt; vertical-align:-2px;" src="/assets/img/harvard-logo.png">
+#   <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/227214" target="_blank" rel="noopener">
+#   Harvard
+#   </a>
 # subtitle: Agentic AI at <a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/227214">Harvard Medical School</a>
 # subtitle: Building Trustworthy and Explainable AI at <a href="https://www.ucf.edu/">UCF</a>
 # subtitle: PhD at <a href="https://www.ucf.edu/">UCF</a>
@@ -48,11 +49,12 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
+I am a Research Fellow at [Harvard Medical School](https://hms.harvard.edu/) and [Boston Children’s Hospital](https://www.childrenshospital.org/),  working on agentic AI and large language model (LLM) systems for complex, high-stakes workflows.
 
-I am a Research Fellow at [Harvard Medical School](https://hms.harvard.edu/) and [Boston Children’s Hospital](https://www.childrenshospital.org/), where I build trustworthy, explainable, and agentic AI systems for healthcare and other high-stakes decision-making environments.
+My work focuses on building and evaluating LLM agents that operate over real-world systems, with emphasis on reliability, decision consistency, and human-in-the-loop design. Current projects include agentic workflows for healthcare interoperability and genetic testing.
 
-I earned my Ph.D. in Computer Engineering from the [University of Central Florida](https://www.ucf.edu/) under the mentorship of Prof. [Jiann-Shiun Yuan](https://www.ece.ucf.edu/person/jiann-s-yuan/). My doctoral work was supported by the [ORCGS Doctoral Fellowship](https://graduate.ucf.edu/fellowships/) and the U.S. Department of Homeland Security. My research spans natural language processing, computational social science, biomedical informatics, computer vision, and scalable machine learning systems, with a focus on transparency, robustness, and human trust.
+Previously, I have built and deployed ML systems across academia and industry, including work at Snap Inc., Siemens Healthineers, and Tokyo Electron. I earned my Ph.D. in Computer Engineering from the University of Central Florida.
 
-Beyond research, I enjoy winter hiking and skiing across New England, playing piano, cooking, reading, and capturing my travels through photography.
+Outside of research, I enjoy winter hiking and skiing across New England, playing piano, cooking, reading, and photography.
 
 <div style="margin-bottom: 40px;"></div>
