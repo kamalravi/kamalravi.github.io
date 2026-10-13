@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Agentic AI & LLM Systems for High-Stakes Workflows
+subtitle: Research Fellow, Boston Children's Hospital and Harvard Medical School
 # subtitle: >
 #   Agentic AI at
 #   <img id="harvard-logo" style="height:14pt; vertical-align:-2px;" src="/assets/img/harvard-logo.png">
@@ -20,7 +20,7 @@ subtitle: Agentic AI & LLM Systems for High-Stakes Workflows
 
 profile:
   align: left
-  image: IMG3621edit.JPG # ravinew25.jpeg #IMG_3156edit.JPG #Screenshot2025.png #IMG_0730-Ravi2.jpg #prof_pic.jpg
+  image: ravi_profile_2026.jpg # IMG3621edit.JPG ravinew25.jpeg #IMG_3156edit.JPG #Screenshot2025.png #IMG_0730-Ravi2.jpg #prof_pic.jpg
   image_circular: yes # crops the image to make it circular
   margin: 10px 10px 0px 0px; #
   address: >
@@ -31,15 +31,15 @@ profile:
       <a href="https://www.linkedin.com/in/kamalravi/" target="_blank" rel="noopener noreferrer">
       <i class="fa-brands fa-linkedin"></i></a> 
       |
-      <a href="https://twitter.com/guindyexpress?lang=en" target="_blank" rel="noopener noreferrer">
+      <!-- <a href="https://twitter.com/guindyexpress?lang=en" target="_blank" rel="noopener noreferrer">
       <i class="fa-brands fa-twitter"></i></a>
-      | 
-      <a href="mailto:Kamalakkannan.Ravi@ucf.edu">
+      | -->
+      <a href="mailto:Kamalakkannan.Ravi@childrens.harvard.edu">
       <i class="fa fa-envelope"></i></a> 
     </center> 
 
 experience: false # Overview of professional experience. 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
 reviews: true
@@ -49,12 +49,26 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I am a Research Fellow at [Harvard Medical School](https://hms.harvard.edu/) and [Boston Children’s Hospital](https://www.childrenshospital.org/),  working on agentic AI and large language model (LLM) systems for complex, high-stakes workflows.
+I work on LLM agents for clinical genomics: how to build them, how to evaluate them, and when a person should stay in the loop. I am a Research Fellow at [Boston Children's Hospital](https://www.childrenshospital.org/) and [Harvard Medical School](https://hms.harvard.edu/). I go by Ravi.
 
-My work focuses on building and evaluating LLM agents that operate over real-world systems, with emphasis on reliability, decision consistency, and human-in-the-loop design. Current projects include agentic workflows for healthcare interoperability and genetic testing.
-
-Previously, I have built and deployed ML systems across academia and industry, including work at Snap Inc., Siemens Healthineers, and Tokyo Electron. I earned my Ph.D. in Computer Engineering from the University of Central Florida.
+I received my PhD in Computer Engineering from the University of Central Florida, where I worked on explainable AI for detecting extremism and threats on social media. I have also worked on machine learning at Snap Inc., Siemens Healthineers, and Tokyo Electron.
 
 Outside of research, I enjoy winter hiking and skiing across New England, playing piano, cooking, reading, and photography.
+
+<div style="clear: both;"></div>
+
+### Talks
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="{{ '/assets/img/talk_wsdm_2026.jpg' | relative_url }}" alt="Talk at ACM WSDM 2026" class="img-fluid rounded z-depth-1" loading="lazy" style="width:100%; height:260px; object-fit:cover; object-position:50% 50%;">
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="{{ '/assets/img/talk_hmpa_blitz_2026.jpg' | relative_url }}" alt="Talk at Harvard Medical School" class="img-fluid rounded z-depth-1" loading="lazy" style="width:100%; height:260px; object-fit:cover; object-position:50% 50%;">
+  </div>
+</div>
+<div class="caption">
+  ACM WSDM 2026, Boise, Idaho (left). Harvard Medical School, 2026 (right).
+</div>
 
 <div style="margin-bottom: 40px;"></div>
