@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Fellow, Boston Children's Hospital and Harvard Medical School
+subtitle: Research Fellow, Harvard Medical School and Boston Children's Hospital
 # subtitle: >
 #   Agentic AI at
 #   <img id="harvard-logo" style="height:14pt; vertical-align:-2px;" src="/assets/img/harvard-logo.png">
@@ -49,7 +49,7 @@ social: false  # includes social icons at the bottom of the page
 latest_posts: false  # includes a list of the newest posts
 ---
 
-I work on LLM agents for clinical genomics: how to build them, how to evaluate them, and when a person should stay in the loop. I am a Research Fellow at [Boston Children's Hospital](https://www.childrenshospital.org/) and [Harvard Medical School](https://hms.harvard.edu/). I go by Ravi.
+I work on LLM agents for clinical genomics: how to build them, how to evaluate them, and when a person should stay in the loop. I am a Research Fellow at [Harvard Medical School](https://hms.harvard.edu/) and [Boston Children's Hospital](https://www.childrenshospital.org/). I go by Ravi.
 
 I received my PhD in Computer Engineering from the University of Central Florida, where I worked on explainable AI for detecting extremism and threats on social media. I have also worked on machine learning at Snap Inc., Siemens Healthineers, and Tokyo Electron.
 

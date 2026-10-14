@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Boston Children's Hospital and Harvard Medical School as a Research Fellow.
+Joined Harvard Medical School and Boston Children's Hospital as a Research Fellow.
